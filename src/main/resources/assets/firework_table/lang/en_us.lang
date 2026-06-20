@@ -1,0 +1,8 @@
+container.firework_table.firework_table=Dye & Customize
+
+tile.firework_table.firework_table.name=Firework Table
+
+config.firework_table.title=Firework Table Config
+config.firework_table.configVersion=Config Version
+config.firework_table.block.firework_table.enableComplexityLimits=Enable Complexity Limits
+config.firework_table.block.firework_table.guiPreviewColorSorting=Enable Preview Color Sorting

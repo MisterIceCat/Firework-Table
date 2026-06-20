@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "firework_table",
+    "name": "Firework Table",
+    "description": "Adds a utility block to simplify crafting firework stars via a GUI: select shapes, add effects, add dyes, and preview the explosion",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "modpage",
+    "authorList": [
+      "Sir Squidly"
+    ],
+    "credits": "The_Computerizer for their very nice Build template",
+    "logoFile": "assets/firework_table/textures/gui/firework_table_logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
