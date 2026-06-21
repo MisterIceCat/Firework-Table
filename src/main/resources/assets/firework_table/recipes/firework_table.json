@@ -1,9 +1,9 @@
 {
   "type": "forge:ore_shaped",
   "pattern": [
-    "gi ",
-    "pp ",
-    "pp "
+    "gi",
+    "pp",
+    "pp"
   ],
   "key": {
     "g": { "item": "minecraft:gunpowder" },
